@@ -1,4 +1,4 @@
 # newcollege_demo
 This is my first Repository
 <br>
-AUther - my name vivek 
+Auther - my name vivek 
